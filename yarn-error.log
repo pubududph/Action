@@ -1,0 +1,29 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.19/libexec/bin/yarn.js add esbuild
+
+PATH: 
+  /Users/pubudu/.rvm/gems/ruby-3.0.0/bin:/Users/pubudu/.rvm/gems/ruby-3.0.0@global/bin:/Users/pubudu/.rvm/rubies/ruby-3.0.0/bin:/Users/pubudu/.rbenv/shims:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Apple/usr/bin:/Users/pubudu/.rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open '/Users/pubudu/Library/Caches/Yarn/v6/npm-esbuild-darwin-64-0.15.5-11726de5d0bf5960b92421ef433e35871c091f8d-integrity/node_modules/esbuild-darwin-64/.yarn-metadata.json'
+
+npm manifest: 
+  {
+    "name": "app",
+    "private": "true"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
